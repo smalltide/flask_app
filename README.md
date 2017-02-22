@@ -1,5 +1,5 @@
 # flask_app
-use flask to create a simple static website
+use flask to create a simple static website and deploy to heroku
 
 ![alt text](https://github.com/smalltide/flask_app/blob/master/screenshot.gif "flask_app")
 
@@ -9,5 +9,7 @@ use flask to create a simple static website
 ```
   > git@github.com:smalltide/flask_app.git
   > cd flask_app
+  > pip3 install virtualenv
   > pip3 install flask
+  > python3 app.py
 ```
